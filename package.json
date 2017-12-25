@@ -45,5 +45,16 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sambit567/task-management.git"
+  },
+  "author": "Sambit Kumar Padhy",
+  "bugs": {
+    "url": "https://gitlab.com/sambit567/task-management/issues"
+  },
+  "homepage": "https://gitlab.com/sambit567/task-management#README"
 }
